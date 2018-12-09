@@ -2,6 +2,6 @@
 
 Megan Litkenhous
 
-Jack Murakami
+Jack Murakami - Cluster & Data Frame
 
-Dayton Jennings - I did the Error Rate Function and the final report summary.
+Dayton Jennings - Error Rate Function and the final report summary.
