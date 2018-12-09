@@ -1,6 +1,6 @@
 # finalproject
 
-Megan Litkenhous
+Megan Litkenhous - Phase 1 & 2
 
 Jack Murakami - 
 
